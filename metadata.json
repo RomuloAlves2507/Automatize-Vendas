@@ -1,0 +1,7 @@
+{
+  "name": "Automatize Vendas",
+  "description": "A mobile-first POS system for micro-retailers featuring AI-powered invoice scanning, inventory management, and financial tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
